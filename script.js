@@ -31,7 +31,7 @@ function calcola(){
       risultato(numero1 + numero2)
       break
     case '-':
-      risultato(numero1 + numero2)
+      risultato(numero1 - numero2)
       break
     case '*':
    	  risultato(numero1 * numero2)
